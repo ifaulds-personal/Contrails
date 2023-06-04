@@ -80,4 +80,4 @@ Content related to coastal bay area city San Francisco
 
 # avatar
 
-![](gmaps.png)
+![](avatar.png)
